@@ -15,10 +15,9 @@ Rohit270701/Rohit270701 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Social banner for jh3y](https://github.com/rohittt.singh/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Jhey.
+I'm Rohit Singh.
 </p>
 <p align='center'>For enquiries, reach out @ rohittt.singh@rohittt.sinh or over on <a href="https://twitter.com/rohittt.singh">Twitter</a>.</p>
 
