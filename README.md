@@ -19,6 +19,6 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>
 I'm Rohit Singh.
 </p>
-<p align='center'>For enquiries, reach out @ rohittt.singh@rohittt.sinh or over on <a href="https://twitter.com/rohittt.singh">Twitter</a>.</p>
+<p align='center'>For enquiries, reach out @ rohittt.singh or over on <a href="https://twitter.com/rohittt.singh">Twitter</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
