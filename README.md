@@ -21,8 +21,8 @@ You can click the Preview link to take a look at your changes.
 <p align='center'>
 I'm Rohit Singh.
 </p>
-<p align='center'>For enquiries, reach out on <a href="https://www.linkedin.com/in/rohit-singh-1132531b5">Twitter</a>.</p>
-<p align='center'>Or reach out on <a href="https://twitter.com/rohitttsingh07?t=z9qE22ig9Tf3VEo8mzihfA&s=09">LinkedIn</a>.</p>
+<p align='center'>For enquiries, reach out on <a href="https://www.linkedin.com/in/rohit-singh-1132531b5">LinedIn</a>.</p>
+<p align='center'>Or reach out on <a href="https://twitter.com/rohitttsingh07?t=z9qE22ig9Tf3VEo8mzihfA&s=09">Twitter</a>.</p>
 <p align='center'>Or reach out on <a href="https://instagram.com/rohittt.singh">Instagram</a>.</p>
 <p align='center'>Or reach out on <a href="https://github.com/rohitttsingh">GitHub</a>.</p>
 
