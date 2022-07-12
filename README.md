@@ -10,10 +10,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitttsingh&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitttsingh&layout=compact)](https://github.com/rohitttsingh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitttsingh&layout=compact)](https://github.com/rohitttsingh/github-readme-stats) <br>
+
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitttsingh&theme=radical" />
 
-<br>
 
 <h1 align="center">Hi, I'm Rohit Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
 <p align='center'>
