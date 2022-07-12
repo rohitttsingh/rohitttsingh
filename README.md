@@ -26,4 +26,3 @@ I'm Rohit Singh.
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
-![Rohit Singh](https://github.com/rohitttsingh/rohitttsingh/raw/b322cb383b852d7e6609681a8f4bff64932cd96e/EanaHandwritingAnimatedDark.svg#gh-dark-mode-only)![Eana Hufwe](https://github.com/rohitttsingh/rohitttsingh/raw/b322cb383b852d7e6609681a8f4bff64932cd96e/EanaHandwritingAnimatedLight.svg#gh-light-mode-only)
