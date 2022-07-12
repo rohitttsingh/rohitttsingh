@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @Rohit270701
-- 👀 I’m interested in Entrepreneurship and development
-- 🌱 I’m currently learning Business Model
-- 💞️ I’m looking to collaborate on Startups
-- 📫 How to reach me rohitsingh270701@gmail.com
-- <a href="https://www.linkedin.com/in/rohit-singh-1132531b5">LinkedIn</a><br>
-- <a href="https://instagram.com/rohittt.singh">Instagram</a><br>
-- <a href="https://twitter.com/rohitttsingh07?t=z9qE22ig9Tf3VEo8mzihfA&s=09">Twitter</a><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Avneesh's+GitHub+Profile!)](https://git.io/typing-svg)
+
+<h1 align="center">Hi, I'm Avneesh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitttsingh&show_icons=true&theme=radical)
 
