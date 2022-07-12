@@ -17,7 +17,7 @@ Rohit270701/Rohit270701 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align="center">Hi, I'm Rohit Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
 <p align='center'>
 I'm Rohit Singh.
 </p>
