@@ -11,6 +11,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitttsingh&layout=compact)](https://github.com/rohitttsingh/github-readme-stats)
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitttsingh&theme=radical" />
 
 <!---
 Rohit270701/Rohit270701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
