@@ -25,3 +25,4 @@ I'm Rohit Singh.
 <p align='center'>Or reach out on <a href="https://github.com/rohitttsingh">GitHub</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
+![Eana Hufwe](https://github.com/blueset/blueset/raw/b322cb383b852d7e6609681a8f4bff64932cd96e/EanaHandwritingAnimatedDark.svg#gh-dark-mode-only)![Rohit Singh](https://github.com/blueset/blueset/raw/b322cb383b852d7e6609681a8f4bff64932cd96e/EanaHandwritingAnimatedLight.svg#gh-light-mode-only)
