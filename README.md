@@ -1,12 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Rohit's+GitHub+Profile!)](https://git.io/typing-svg)
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitttsingh&show_icons=true&theme=radical)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitttsingh&layout=compact)](https://github.com/rohitttsingh/github-readme-stats) <br>
 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitttsingh&theme=radical" /><br>
+  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitttsingh&theme=radical" /><br>
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
