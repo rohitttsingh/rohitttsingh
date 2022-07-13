@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitttsingh&layout=compact)](https://github.com/rohitttsingh/github-readme-stats) <br>
 
-  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitttsingh&theme=radical" /><br>
+  <img width="58%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitttsingh&theme=radical" /><br>
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
