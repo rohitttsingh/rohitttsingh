@@ -2,6 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitttsingh&show_icons=true&theme=radical)
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rohitttsingh&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitttsingh&layout=compact)](https://github.com/rohitttsingh/github-readme-stats) <br>
 
   <img width="58%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitttsingh&theme=radical" /><br>
