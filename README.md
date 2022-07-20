@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Rohit's+GitHub+Profile!)](https://git.io/typing-svg)
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitttsingh&show_icons=true&theme=radical)
 
 
