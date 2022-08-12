@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Rohit's+GitHub+Profile!)](https://git.io/typing-svg)
+![](https://komarev.com/ghpvc/?username=rohitttsingh)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
