@@ -31,6 +31,8 @@ I'm Rohit Singh.
 <p align='center'>Or reach out on <a href="https://twitter.com/rohitttsingh07?t=z9qE22ig9Tf3VEo8mzihfA&s=09">Twitter</a>.</p>
 <p align='center'>Or reach out on <a href="https://instagram.com/rohittt.singh">Instagram</a>.</p>
 <p align='center'>Or reach out on <a href="https://github.com/rohitttsingh">GitHub</a>.</p>
+<p align='center'>Subscribe to <a href="https://www.youtube.com/channel/UCDHo78ej9B1h7vcTwDaWXBw/videos">Developer Geeks Hub</a>.</p>
+
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
