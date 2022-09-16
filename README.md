@@ -31,7 +31,7 @@ I'm Rohit Singh.
 <p align='center'>Or reach out on <a href="https://twitter.com/rohitttsingh07?t=z9qE22ig9Tf3VEo8mzihfA&s=09">Twitter</a>.</p>
 <p align='center'>Or reach out on <a href="https://instagram.com/rohittt.singh">Instagram</a>.</p>
 <p align='center'>Or reach out on <a href="https://github.com/rohitttsingh">GitHub</a>.</p>
-<p align='center'>Or reach out on><a href="https://www.hackerrank.com/rohitsingh270701?badge=cpp&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share&social=linkedin"> Hacker Rank</a>.</p>
+<p align='center'>Or reach out on <a href="https://www.hackerrank.com/rohitsingh270701?badge=cpp&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share&social=linkedin"> Hacker Rank</a>.</p>
 <p align='center'>Subscribe to <a href="https://www.youtube.com/channel/UCDHo78ej9B1h7vcTwDaWXBw/videos">Developer Geeks Hub</a>.</p>
 
 
